@@ -7,5 +7,5 @@
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: Facebook, LinkedIn 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: "So what's a set of predefined steps the government might take to preserve the environment?</br>
-                  An Al-Gore-ithm."
+- ⚡ Fun fact: <p>"So what's a set of predefined steps the government might take to preserve the environment?</br>
+                  An Al-Gore-ithm."</p>
