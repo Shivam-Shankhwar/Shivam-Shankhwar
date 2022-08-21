@@ -1,7 +1,7 @@
 ### Hola, I'm <a href="https://shivam-shankhwar.github.io/Dummy_Webpage/">Shivam Shankhwar</a> 👋
 
-- 🔭 I’m currently working on Covid-19 Xray Analyzer 
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’ve worked on Covid-19 Xray Analyzer 
+- 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with with Webapp Development 
 - 💬 Ask me about Machine Learning
